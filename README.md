@@ -5,6 +5,12 @@ Reproducibility package for:
 > **Robustness of Anomaly Detection Models for Industrial Control Systems
 > under Training-Time Data Contamination**
 
+<p align="center">
+  <img src="figures/Fig1_methodology.png" width="100%" alt="Offline ICS anomaly-detection workflow under training-time data contamination">
+</p>
+
+*Figure 1. Offline ICS anomaly-detection workflow under training-time data contamination.*
+
 Accepted at **CASCON 2026**. The final author-version paper and arXiv link will
 be added after release.
 
