@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or the accompanying results, please cite the associated paper."
+title: "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination"
+type: software
+license: MIT
+authors:
+  - family-names: Ozbek
+    given-names: Mustafa Umut
+  - family-names: Ojo
+    given-names: Taiwo
+  - family-names: Madani
+    given-names: Pooria
+  - family-names: El-Khatib
+    given-names: Khalil
+  - family-names: Yang
+    given-names: Li
+preferred-citation:
+  type: conference-paper
+  title: "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination"
+  authors:
+    - family-names: Ozbek
+      given-names: Mustafa Umut
+    - family-names: Ojo
+      given-names: Taiwo
+    - family-names: Madani
+      given-names: Pooria
+    - family-names: El-Khatib
+      given-names: Khalil
+    - family-names: Yang
+      given-names: Li
+  conference: CASCON 2026
+  year: 2026
