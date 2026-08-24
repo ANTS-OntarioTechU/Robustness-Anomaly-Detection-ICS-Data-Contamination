@@ -220,8 +220,6 @@ If you use this code or build on these results, please cite the paper:
 All authors are with the Faculty of Business and IT, Ontario Tech University,
 Oshawa, Ontario, Canada.
 
-Replace the citation fields with the final proceedings pages and DOI when they
-become available.
 
 **Please also credit the dataset.** The iTrust terms require explicit credit to
 "iTrust, Centre for Research in Cyber Security, Singapore University of
