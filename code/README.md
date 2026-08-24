@@ -372,5 +372,4 @@ submits each array with only the missing task IDs via `--array=i,j,k,...`.
   AE architecture, same LSTM-AE).
 - `src/attacks.py` — matches the notebook verbatim.
 
-If the paper reviewers ask "is this the same science as the notebook?",
-the answer is yes, pointwise.
+
