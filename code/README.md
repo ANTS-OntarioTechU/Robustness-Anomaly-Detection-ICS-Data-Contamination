@@ -364,12 +364,6 @@ submits each array with only the missing task IDs via `--array=i,j,k,...`.
 
 ---
 
-## What you DON'T need to touch
 
-- `src/eval_utils.py` — matches the notebook verbatim (same `evaluate`,
-  same two-pass F1-optimal threshold).
-- `src/models.py` — matches the notebook verbatim (same PyOD configs, same
-  AE architecture, same LSTM-AE).
-- `src/attacks.py` — matches the notebook verbatim.
 
 
